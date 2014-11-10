@@ -1,0 +1,108 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>Rescue Movement</title>
+  <meta name="description" content="rescue movement" />
+  <meta name="keywords" content="rescue movement" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
+</head>
+
+<body>
+  <div id="main">
+    <header>
+      <div id="logo"><div id="logo_text"><img src="images/HeaderImageLogo.jpg" width="940" height="102" alt="" border="0"></div></div>
+      <nav>
+        <ul class="sf-menu" id="nav">
+          <li><a href="index.shtml">Home</a></li>
+		  <li><a href="donation.shtml">Donate</a>
+		  <ul>
+				 <li><a href="friends.shtml">Sponsors</a></li>
+				 </ul>
+          <li><a href="about.shtml">About us</a>
+		  	<ul>
+			  <li><a href="secret.shtml">Meet Secret</a></li>
+              <li><a href="beau.shtml">Meet Beaulero</a></li>
+              <li><a href="fyra.shtml">Meet Fyra w/ foal</a></li>
+			</ul>
+			</li>
+          <li><a href="ambassadors.shtml">Ambassadors</a></li>
+          <li><a href="merch.shtml">Merch</a></li>
+          <li><a href="contact.php">Contact Us</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div id="site_content">
+      <ul id="images">
+        <li><a href="rfrm.shtml"><img src="images/1.jpg" width="600" height="300" alt="one" border="0" /></a></li>
+        <li><img src="images/2.jpg" width="600" height="300" alt="two" /></li>
+        <li><img src="images/3.jpg" width="600" height="300" alt="three" /></li>
+        <li><img src="images/4.jpg" width="600" height="300" alt="four" /></li>
+        <li><img src="images/5.jpg" width="600" height="300" alt="five" /></li>
+        <li><img src="images/6.jpg" width="600" height="300" alt="six" /></li>
+      </ul>
+      <div id="sidebar_container">
+        <div class="sidebar">
+		
+       <!--#include file="Vrnav-fr.html" -->
+	   
+        </div>
+      </div>
+      <div class="content"><div align="center">
+                <h1>Fundraiser Registration</h1>
+<h2>WINE TASTING FUNDRAISER AT THE BRICK HOUSE</h2>
+<H3>179 Godwyn Ave., Wyckoff, NJ 201-848-1211</h3>
+<p><b>Experience imported wine from Italian Vintners soon to be available in New Jersey</b>
+<br>music by Dan Lopez - covering 5 decades of your favorite tunes<img src="images/WineTastingImage.jpg" width="224" height="300" alt="" border="0" align="right">
+<br>Hors d’oeuvres * Buffet
+
+<H3>Tuesday, September 30, 2014<br>6:30 - 9:30 pm</h3>
+
+<p><b>Admission:</b> $50 in advance, $60 at the door
+<H3>Register in advance via PayPal and save:</h3>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="W29SLJ3JHKAL2">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+<br>
+
+<p><b>OR RSVP to:</b> Beverly Poitras at 201-248-2312, email <a href="mailto:info@rescuemovement.org">info@rescuemovement.org</a>
+<p><i>Enjoy a great evening and know that you are giving to a great cause!</i>
+
+<p>Questions can be directed to <a href="mailto:info@rescuemovement.org">info@rescuemovement.org</a>
+<br>Corporate Sponsors welcome
+
+<p><i>Please save your receipt for tax purposes as it serves as confirmation of your donation to Rescue Movement, a division of National Equine Rescue Foundation, Inc., a qualified 501(c)(3) charitable organization.</i>
+</p></div>
+
+
+
+
+</p>
+      </div>
+    </div>
+    <footer>
+      <!--#include file="Vfooter.html" -->
+    </footer>
+  </div>
+  <p>&nbsp;</p>
+  <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="js/jquery.js"></script>
+  <script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
+  <script type="text/javascript" src="js/jquery.sooperfish.js"></script>
+  <script type="text/javascript" src="js/jquery.kwicks-1.5.1.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('#images').kwicks({
+        max : 600,
+        spacing : 2
+      });
+      $('ul.sf-menu').sooperfish();
+    });
+  </script>
+</body>
+</html>
