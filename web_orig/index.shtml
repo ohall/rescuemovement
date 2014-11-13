@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>Rescue Movement, National Equine Rescue Foundation, Inc.</title>
+  <meta name="description" content="Rescue Movement Helping the animals you love is Black &amp; White But, taking action is Golden! Become an Ambassador" />
+  <meta name="keywords" content="rescue movement, ride for rescue movement, become an ambasssador, ambassador, horse, horse rescue, rescue, National Equine Rescue Foundation" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
+</head>
+
+<body>
+  <div id="main">
+    <header>
+      <div id="logo"><div id="logo_text"><img src="images/HeaderImageLogo.jpg" width="940" height="102" alt="" border="0"></div></div>
+      <nav>
+        <ul class="sf-menu" id="nav">
+          <li class="selected"><a href="index.shtml">Home</a></li>
+		  <li><a href="donation.shtml">Donate</a>
+		  <ul>
+				 <li><a href="friends.shtml">Sponsors</a></li>
+				 </ul>
+          <li><a href="about.shtml">About us</a>
+		  	<ul>
+			  <li><a href="secret.shtml">Meet Secret</a></li>
+              <li><a href="fyra.shtml">Meet Fyra w/ foal</a></li>
+			</ul>
+		  </li>
+          <li><a href="ambassadors.shtml">Ambassadors</a></li>
+          <li><a href="merch.shtml">Merch</a></li>
+          <li><a href="contact.php">Contact Us</a></li>
+        </ul>
+      </nav>
+	  
+    </header>
+    <div id="site_content">
+      <ul id="images">
+        <li><a href="rfrm.shtml"><img src="images/1.jpg" width="600" height="300" alt="one" border="0" /></a></li>
+        <li><img src="images/2.jpg" width="600" height="300" alt="two" /></li>
+        <li><img src="images/3.jpg" width="600" height="300" alt="three" /></li>
+        <li><img src="images/4.jpg" width="600" height="300" alt="four" /></li>
+        <li><img src="images/5.jpg" width="600" height="300" alt="five" /></li>
+        <li><img src="images/6.jpg" width="600" height="300" alt="six" /></li>
+      </ul>
+      <div id="sidebar_container">
+        <div class="sidebar">
+
+      <!--#include file="Vrnav.html" -->
+	  		
+        </div>
+      </div>
+      <div class="content">
+	  
+        <!--<h1>Welcome to <font color="#EEB20F">Rescue Movement</font></h1><blockquote>"Opportunities multiply as they are seized."<br><div align="right"> - Sun Tzu</div></blockquote>-->
+
+          <p><a href="Fundraiser2014.shtml"><img src="images/HomeImageWineTasting14.jpg" width="224" height="300" alt="home" border="0" align="right"></a>This is the year of the Horse, the Chinese zodiac sign symbolizing strength and energy. While 2014 will honor the horse, Rescue Movement will continue to honor the equine with compassion and awe for many years to come.</p>
+
+<p><b>FACT:  MOST HORSES WHO GO TO SLAUGHTER ARE IN GOOD CONDITION. </b> Each year more than 170,000 American horses are slaughtered for human consumption. USDA statistics show that over 92% of horses slaughtered are in good condition and able to live productive lives. Many horses are sold for slaughter merely because their owners can no longer afford them and aren't willing or able to find a good home for them or donate them to a rescue group. 
+
+<p>Rescue Movement is a division of National Equine Rescue Foundation Inc., a certified 501(c)(3) nonprofit creating a presence in the Equine Show world.  Our organization was inspired by our self-sponsored rescue of two horses and one pony from a kill shelter. To date, we have rehabilitated and sold one of the horses, which is now back in the show ring. The other horse was with foal at the time of her rescue and is due this summer.  The pony is being trained for show competition and is also used to train young riders.  
+
+
+      </div>
+    </div>
+    <footer>
+	
+      <!--#include file="Vfooter.html" -->
+	  
+    </footer>
+  </div>
+  
+  <p>&nbsp;</p>
+  <script type="text/javascript" src="js/jquery.js"></script>
+  <script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
+  <script type="text/javascript" src="js/jquery.sooperfish.js"></script>
+  <script type="text/javascript" src="js/jquery.kwicks-1.5.1.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('#images').kwicks({
+        max : 600,
+        spacing : 2
+      });
+      $('ul.sf-menu').sooperfish();
+    });
+  </script>
+</body>
+</html>
