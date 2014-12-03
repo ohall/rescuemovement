@@ -27,7 +27,11 @@
 			  <li><a href="secret.shtml">Meet Secret</a></li>
 			</ul>
 		  </li>
-          <li><a href="ambassadors.shtml">Ambassadors</a></li>
+          <li><a href="ambassadors.shtml">Ambassadors</a>
+		  	<ul>
+			  <li><a href="NERFAmbassadorForm.pdf" target="_blank">Ambassador Form</a></li>
+			</ul>
+          </li>
           <li><a href="merch.shtml">Merch</a></li>
           <li><a href="contact.php">Contact Us</a></li>
         </ul>
