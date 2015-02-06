@@ -47,31 +47,28 @@
         <li><img src="images/5.jpg" width="600" height="300" alt="five" /></li>
         <li><img src="images/6.jpg" width="600" height="300" alt="six" /></li>
       </ul>
-      <div id="sidebar_container">
-        <div class="sidebar">
-
-      <!--#include file="Vrnav.html" -->
-	  		
-        </div>
-      </div>
+      <div id="sidebar_container"><div class="sidebar"></div></div>
       <div class="content">
-	  
-        <!--<h1>Welcome to <font color="#EEB20F">Rescue Movement</font></h1><blockquote>"Opportunities multiply as they are seized."<br><div align="right"> - Sun Tzu</div></blockquote>-->
 
-          <p><a href="donation.shtml"><img src="images/beASponsor.jpg" width="224" height="300" alt="home" border="0" align="right"></a>This is the year of the Horse, the Chinese zodiac sign symbolizing strength and energy. While 2014 will honor the horse, Rescue Movement will continue to honor the equine with compassion and awe for many years to come.</p>
-
-<p><b>FACT:  MOST HORSES WHO GO TO SLAUGHTER ARE IN GOOD CONDITION. </b> Each year more than 170,000 American horses are slaughtered for human consumption. USDA statistics show that over 92% of horses slaughtered are in good condition and able to live productive lives. Many horses are sold for slaughter merely because their owners can no longer afford them and aren't willing or able to find a good home for them or donate them to a rescue group. 
-
-<p>Rescue Movement is a division of National Equine Rescue Foundation Inc., a certified 501(c)(3) nonprofit creating a presence in the Equine Show world.  Our organization was inspired by our self-sponsored rescue of two horses and one pony from a kill shelter. To date, we have rehabilitated and sold one of the horses, which is now back in the show ring. The other horse was with foal at the time of her rescue and is due this summer.  The pony is being trained for show competition and is also used to train young riders.  
+          <p><a href="donation.shtml"><img src="images/beASponsor.jpg" width="224" height="300" alt="home" border="0" align="right"></a>
+              Meaghan Fleischer rides for Rescue Movement. Now 21, and riding since age five, Meaghan’s true passion and compassion for equine second chances,
+              is why she is behind this charity. Rescue Movement is a division of National Equine Rescue Foundation Inc., a certified 501(c)(3) nonprofit
+              creating a presence in the Equine Show world.</p>
 
 
+          <p><b>FACT:  MOST HORSES WHO GO TO SLAUGHTER ARE IN GOOD CONDITION. </b> Each year more than 170,000 American horses are slaughtered for human consumption.
+              USDA statistics show that over 92% of horses slaughtered are in good condition and able to live productive lives. Many horses are sold for slaughter
+              merely because their owners can no longer afford them and aren't willing or able to find a good home for them or donate them to a rescue group.</p>
+
+          <p>Having the best intentions in the world does not buy feed, pay the vet, or secure a stable to call home. Rescue Movement plans to be self-sufficient
+              through our Ambassador Program, Sponsors, and Donors who generously see the merit of the charity and the humanitarian resonance of Meaghan’s efforts.
+              This year, being in Wellington, FL., January and February has and will be helpful in creating a presence and getting the word out! Secret (show name Secret Service)
+              the rescue pony that is winning everyone’s heart is in Wellington as well!</p>
+
+          <p>After all, a second chance is what we all want when you come right down to it! Giving horses and ponies that second chance is what
+              Rescue Movement is all about. Enter here and often!</p>
       </div>
     </div>
-    <footer>
-	
-      <!--#include file="Vfooter.html" -->
-	  
-    </footer>
   </div>
   
   <p>&nbsp;</p>
