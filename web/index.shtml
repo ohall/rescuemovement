@@ -16,14 +16,18 @@
       <div id="logo"><div id="logo_text"><img src="images/HeaderImageLogo.jpg" width="940" height="102" alt="" border="0"></div></div>
       <nav>
         <ul class="sf-menu" id="nav">
-          <li class="selected"><a href="index.shtml">Home</a></li>
+          <li class="selected"><a href="index.shtml">Home</a>
+		  	<ul>
+			  <li><a href="mission.shtml">Mission</a></li>
+			</ul>
+          </li>
+
 		  <li><a href="donation.shtml">Donate</a>
 		  <ul>
 				 <li><a href="friends.shtml">Sponsors</a></li>
 				 </ul>
           <li><a href="about.shtml">About us</a>
 		  	<ul>
-			  <li><a href="mission.shtml">Mission</a></li>
 			  <li><a href="secret.shtml">Meet Secret</a></li>
 			</ul>
 		  </li>
