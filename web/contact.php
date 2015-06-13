@@ -13,23 +13,37 @@
 <body>
   <div id="main">
     <header>
-      <div id="logo"><div id="logo_text"><img src="images/HeaderImageLogo.jpg" width="940" height="102" alt="" border="0"></div></div>
+      <div id="logo">
+        <div id="logo_text">
+          <img src="images/HeaderImageLogo.jpg" width="940" height="102" alt="" border="0">
+        </div>
+      </div>
       <nav>
         <ul class="sf-menu" id="nav">
-          <li><a href="index.shtml">Home</a></li>
-		  <li><a href="donation.shtml">Donate</a>
-		  <ul>
-				 <li><a href="friends.shtml">Sponsors</a></li>
-				 </ul>
+          <li class="selected"><a href="index.shtml">Home</a>
+            <ul>
+              <li><a href="mission.shtml">Mission</a></li>
+            </ul>
+          </li>
+
+          <li><a href="donation.shtml">Donate</a>
+            <ul>
+              <li><a href="friends.shtml">Sponsors</a></li>
+              <li><a href="product.shtml">Product</a></li>
+            </ul>
           <li><a href="about.shtml">About us</a>
-		  	<ul>
-			  <li><a href="secret.shtml">Meet Secret</a></li>
+            <ul>
+              <li><a href="secret.shtml">Meet Secret</a></li>
               <li><a href="fyra.shtml">Meet Fyra w/ foal</a></li>
-			</ul>
-			</li>
-          <li><a href="ambassadors.shtml">Ambassadors</a></li>
+            </ul>
+          </li>
+          <li><a href="ambassadors.shtml">Ambassadors</a>
+            <ul>
+              <li><a href="NERFAmbassadorForm.pdf" download="NERFAmbassadorForm.pdf">Ambassador Form</a></li>
+            </ul>
+          </li>
           <li><a href="merch.shtml">Merch</a></li>
-          <li class="selected"><a href="contact.php">Contact Us</a></li>
+          <li><a href="contact.php">Contact Us</a></li>
         </ul>
       </nav>
     </header>

@@ -13,26 +13,7 @@
 <body>
   <div id="main">
     <header>
-      <div id="logo"><div id="logo_text"><img src="images/HeaderImageLogo.jpg" width="940" height="102" alt="" border="0"></div></div>
-      <nav>
-        <ul class="sf-menu" id="nav">
-          <li><a href="index.shtml">Home</a></li>
-		  <li><a href="donation.shtml">Donate</a>
-		  <ul>
-				 <li><a href="friends.shtml">Sponsors</a></li>
-				 </ul>
-          <li><a href="about.shtml">About us</a>
-		  	<ul>
-			  <li><a href="secret.shtml">Meet Secret</a></li>
-              <li><a href="beau.shtml">Meet Beaulero</a></li>
-              <li><a href="fyra.shtml">Meet Fyra w/ foal</a></li>
-			</ul>
-			</li>
-          <li><a href="ambassadors.shtml">Ambassadors</a></li>
-          <li><a href="merch.shtml">Merch</a></li>
-          <li><a href="contact.php">Contact Us</a></li>
-        </ul>
-      </nav>
+      <!--#include file="Vheader.html" -->
     </header>
     <div id="site_content">
       <ul id="images">
