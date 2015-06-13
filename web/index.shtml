@@ -52,10 +52,13 @@
         <li><img src="images/6.jpg" width="600" height="300" alt="six" /></li>
       </ul>
       <div id="sidebar_container"><div class="sidebar"></div></div>
-      <div class="content">
+      <div class="content" style="width: 100%">
 
-          <p><iframe width="460" height="315" align="right" style="margin: 10px" src="https://www.youtube.com/embed/5MGn6NNf2jA" frameborder="0" allowfullscreen></iframe>
-          <!--<p><a href="donation.shtml"><img src="images/beASponsor.jpg" width="224" height="300" alt="home" border="0" align="right"></a>-->
+          <div style="float: right; margin: 10px;">
+              <iframe width="560" height="315"
+                      src="https://www.youtube.com/embed/5MGn6NNf2jA?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+          </div>
+            <p>
               Meaghan Fleischer rides for Rescue Movement. Now 21, and riding since age five, Meaghan’s true passion and compassion for equine second chances,
               is why she is behind this charity. Rescue Movement is a division of National Equine Rescue Foundation Inc., a certified 501(c)(3) nonprofit
               creating a presence in the Equine Show world.</p>
